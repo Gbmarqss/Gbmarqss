@@ -77,4 +77,19 @@ Atualmente focado na transição para a área de **Cibersegurança (Blue Team)**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gbmarqss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbmarqss&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 💬 Um pouco mais sobre mim
+
+- 🏎️ Fã de **Fórmula 1**.
+- 🎮 Gosto de modificar consoles (Switch) e entender hardware.
+- 🧱 E sim, a foto de perfil é um Lego de terno. Profissionalismo com estilo! 😄
+
+<div align="center">
+  <a href="www.linkedin.com/in/gabriel-marques-658620209" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
