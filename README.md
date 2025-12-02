@@ -73,16 +73,6 @@ Atualmente focado na transição para a área de **Cibersegurança (Blue Team)**
 
 ---
 
-### ⚡ Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbmarqss&layout=compact&theme=dracula"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gbmarqss&theme=dracula&hide_border=true" />
-</div>
-
----
-
 ### 💬 Um pouco mais sobre mim
 
 - 🏎️ Fã de **Fórmula 1**.
