@@ -89,7 +89,7 @@ Atualmente focado na transição para a área de **Cibersegurança (Blue Team)**
 - 🧱 E sim, a foto de perfil é um Lego de terno. Profissionalismo com estilo! 😄
 
 <div align="center">
-  <a href="www.linkedin.com/in/gabriel-marques-658620209" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-marques-658620209" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
