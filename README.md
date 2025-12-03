@@ -6,12 +6,12 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente focado na transição para a área de **Cibersegurança (Blue Team)** e **Infraestrutura Cloud**. Sou apaixonado por entender como as coisas funcionam "por baixo do capô", desde a automação com Python até a análise de tráfego de rede e logs.
+Atualmente focado na transição para a área de **Cibersegurança (Blue Team)** e **Infraestrutura Cloud**. Sou apaixonado por entender como as coisas funcionam "por baixo do capô", desde a arquitetura de sistemas em nuvem até a análise de tráfego de rede e logs.
 
 🔭 **No momento, estou trabalhando em:**
 - Aprimorar meus conhecimentos em **SOC (Security Operations Center)**.
 - Laboratórios práticos de defesa cibernética (TryHackMe & Home Labs).
-- Automação de processos com Python.
+- Arquitetura de soluções SaaS seguras na nuvem.
 
 🌱 **Estudando atualmente:**
 - 🛡️ CompTIA Security+ (Conceitos de Segurança)
@@ -40,6 +40,12 @@ Atualmente focado na transição para a área de **Cibersegurança (Blue Team)**
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
+  <br />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
 </div>
 
 ---
@@ -49,14 +55,16 @@ Atualmente focado na transição para a área de **Cibersegurança (Blue Team)**
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🐍 PibShift</h3>
+      <h3 align="center">☁️ ChorusApp (SaaS)</h3>
       <div align="center">
-        <a href="https://github.com/Gbmarqss/PibShift">
-          <img src="https://img.shields.io/badge/Ver_Projeto-Python-blue?style=for-the-badge" />
+        <a href="https://github.com/Gbmarqss/webshift">
+          <img src="https://img.shields.io/badge/Ver_Projeto-React_|_Supabase-blue?style=for-the-badge" />
         </a>
       </div>
       <p align="center">
-        Sistema desktop desenvolvido em Python para automação e gestão inteligente de escalas de equipes. Otimizado para alta produtividade e eliminação de conflitos de agenda.
+        Plataforma SaaS Multi-tenant para gestão inteligente de escalas.
+        <br/>
+        <strong>Destaques:</strong> Arquitetura Cloud com Supabase, segurança de dados via RLS (Row Level Security), autenticação segura e interface moderna responsiva.
       </p>
     </td>
     <td width="50%">
@@ -65,7 +73,7 @@ Atualmente focado na transição para a área de **Cibersegurança (Blue Team)**
         <img src="https://img.shields.io/badge/Em_Construção-WIP-orange?style=for-the-badge" />
       </div>
       <p align="center">
-        Repositório dedicado aos meus estudos de Blue Team, incluindo write-ups do TryHackMe, configurações de SIEM (Elastic/Splunk) e análise de logs.
+        Repositório dedicado aos meus estudos de Blue Team, incluindo write-ups do TryHackMe, configurações de SIEM (Elastic/Splunk) e análise de logs e tráfego.
       </p>
     </td>
   </tr>
